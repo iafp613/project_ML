@@ -9,7 +9,7 @@ _Por tanto, quiero aclarar que este proyecto no es, ni mucho menos, una herramie
 
 _Después de esta aclaración, el propósito del proyecto no es más que aplicar varios conceptos de Machine Learning a un tema tan actual para intentar acercarse a una predicción del precio de Bitcoin._
 
-![GitHub watchers](https://img.shields.io/github/watchers/iafp613/btc_prediction_project?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/iafp613/project_ML?style=social)
 
 
 ## Comenzando 🚀
