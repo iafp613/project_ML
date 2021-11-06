@@ -44,9 +44,9 @@ if menu == 'Bienvenida':
     st.sidebar.markdown('Este es mi **segundo dashboard**, hecho el día *11/06/2021*')
     st.sidebar.markdown('Espero que te guste y puedas aprender más sobre ML')
     for i in range(9): st.sidebar.write("")
-    st.sidebar.markdown(f'Link to my Github account [here](https://github.com/iafp613)')
-    st.sidebar.markdown(f'Link to my public Tableau [here](https://public.tableau.com/shared/42RZT5MC5?:display_count=n&:origin=viz_share_link)')
-    st.sidebar.markdown(f'Link to my LinkedIn profile [here](https://www.linkedin.com/in/iafp/)')
+    st.sidebar.write('Link to my Github account [here](https://github.com/iafp613)')
+    st.sidebar.write('Link to my public Tableau [here](https://public.tableau.com/shared/42RZT5MC5?:display_count=n&:origin=viz_share_link)')
+    st.sidebar.write('Link to my LinkedIn profile [here](https://www.linkedin.com/in/iafp/)')
     st.sidebar.markdown('#### *Created by:*')
     st.sidebar.markdown('##### Nacho Fontal')
     st.markdown("# **BITCOIN**")
@@ -65,7 +65,7 @@ if menu == 'Bienvenida':
         precio futuro. Evidentemente entran en juego muchos factores humanos que no se tienen en cuenta en este \
         proyecto debido a que son difícilmente cuantificables y predecibles. El simple hecho de que un día, una gran \
         empresa como Amazon, permita comprar sus productos con bitcoins, daría un impulso a su precio. O basta un tweet \
-        negativo de Elon Mask (como ya vimos), para hacer caer el precio casi un 40%. Además es un mercado que está \
+        negativo de Elon Musk (como ya vimos), para hacer caer el precio casi un 40%. Además es un mercado que está \
         bastante influenciado por el FOMO (fear of missing out) y, por tanto, también depende mucho de las sensaciones \
         de los inversores.')
     st.write('El objetivo de esta aplicación es poder predecir el precio que tendrá Bitcoin en función del volumen y \
